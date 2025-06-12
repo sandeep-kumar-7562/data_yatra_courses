@@ -40,13 +40,14 @@ While you can write Python code in any text editor, using an IDE makes coding ea
 ## ✅ Testing Your Setup
 **Create a new file named hello.py and add the following code:**
 - in python
-<pre>
-print("Your Python environment is ready!")
-
-</pre>
+>```python
+>print("Your Python environment is ready!")
+>```
 run the file:
 
 ## 📺 YouTube
+![YouTube]()
+
 
 [previous](python_chapter_1_introduction)
 
