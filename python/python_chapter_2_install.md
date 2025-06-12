@@ -51,4 +51,4 @@ run the file:
 [previous](python_chapter_1_introduction)
 
 
-[Next]()
+[Next](python/python_chapter_3_python_syntax.md)
