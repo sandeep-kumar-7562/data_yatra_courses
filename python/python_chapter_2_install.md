@@ -22,6 +22,21 @@ Before you start writing Python code, you need to install Python on your system 
    python --version
    ```
 
+## 💡 Python IDEs and Editors
+While you can write Python code in any text editor, using an IDE makes coding easier and more productive.
+
+#### Recommended Options:
+- VS Code (lightweight, fast, with extensions for Python)
+- PyCharm (feature-rich, great for large projects)
+- Jupyter Notebook (ideal for data science and visualization tasks)
+
+## 🔧 Installing VS Code
+1. Download from: https://code.visualstudio.com/
+
+2. Install the Python extension by Microsoft from the Extensions panel.
+
+3. Select the Python interpreter from the Command Palette (Ctrl + Shift + P) → “Python: Select Interpreter”
+
 ## 📺 YouTube
 
 [previous](python_chapter_1_introduction)
