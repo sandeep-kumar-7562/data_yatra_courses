@@ -30,12 +30,21 @@ While you can write Python code in any text editor, using an IDE makes coding ea
 - PyCharm (feature-rich, great for large projects)
 - Jupyter Notebook (ideal for data science and visualization tasks)
 
-## 🔧 Installing VS Code
+## 🔧 Installing VS Code in window 
 1. Download from: https://code.visualstudio.com/
 
 2. Install the Python extension by Microsoft from the Extensions panel.
 
 3. Select the Python interpreter from the Command Palette (Ctrl + Shift + P) → “Python: Select Interpreter”
+
+## ✅ Testing Your Setup
+**Create a new file named hello.py and add the following code:**
+- in python
+<pre>
+print("Your Python environment is ready!")
+
+</pre>
+run the file:
 
 ## 📺 YouTube
 
