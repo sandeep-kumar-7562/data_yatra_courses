@@ -13,7 +13,7 @@ if True:
     print("This is indented properly")
 ```
 **Python will give you an error if you skip the indentation.**
-> **Example**
+> Example
 
 > ❌ **Syntax Error:**
 >
