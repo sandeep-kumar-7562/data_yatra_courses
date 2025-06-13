@@ -28,4 +28,4 @@ watch the video.
 
 [previous](python/python_chapter_2_install.md)
 
-[Next]()
+[Next](python/python_chapter_4_python_comments.md)

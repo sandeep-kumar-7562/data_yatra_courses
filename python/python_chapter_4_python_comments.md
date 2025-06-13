@@ -63,4 +63,4 @@ Triple-quoted strings (single or double quotes) can be used as multi-line commen
 
 [previous](python/python_chapter_3_python_syntax.md)
 
-[Next]()
+[Next](python/python_chapter_5_python_variable.md)

@@ -1,0 +1,41 @@
+# 📘 Python Variables
+
+## 🧩 What is a Variable?
+
+A **variable** is a name that stores a value in a program. It acts like a container that holds information such as numbers, text, or other types of data. In Python, you don’t need to declare the type of a variable — Python figures it out automatically.
+
+
+
+## 🎯 Key Features of Python Variables
+
+- No need to declare the type
+- Easy to create and use
+- The value can be changed anytime
+- Variable names must begin with a letter or underscore
+
+--- 
+
+>**Examples:**
+
+>```python
+>x= 5
+>name = "Alice" 
+>print(x)
+>print(name)
+output
+>```
+> 5
+> Alice
+ >```       
+
+## 📺 Youtube
+![Youtube]()
+
+
+[previous](python/python_chapter_4_python_comments.md)
+
+
+[Next](python/python_chapter_5.1_variable_name.md)
+
+
+
