@@ -16,6 +16,8 @@ Comments are lines in Python code that are not executed. They are used to explai
 
 A single-line comment starts with a `#` symbol.
 
+>Example
+
 >```python
 ># This is a comment
 >print("Hello, World!")  # This is also a comment
@@ -30,6 +32,8 @@ Python does not have a dedicated syntax for multi-line comments. However, there 
 
 Use a `#` at the beginning of each line to write multi-line comments.
 
+>Example
+
 >```python
 ># This is a multi-line comment
 ># explaining a block of code
@@ -39,6 +43,9 @@ Use a `#` at the beginning of each line to write multi-line comments.
 
 ### 🔹 2. Using Triple Quotes (''' or """)
 Triple-quoted strings (single or double quotes) can be used as multi-line comments, as long as they are not assigned to a variable.
+
+>Example
+
 > ```python
 >"""
 >This is a string
