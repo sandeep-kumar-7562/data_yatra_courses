@@ -54,8 +54,9 @@ Python developers usually follow the **snake_case** style, where words are separ
 ## 🎥 Youtube
 ![Youtube]()
 
-[previous](python/python_chapter_5_python_variable.md)
-
-
-[Next](python/python_chapter_5.2_Assign_variable.md)
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_5.0_python_variable.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a href="python_chapter_5.2_Assign_variable.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
 
