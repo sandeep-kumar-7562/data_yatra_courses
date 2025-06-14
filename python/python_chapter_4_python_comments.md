@@ -3,12 +3,12 @@
 ## 💡 What Are Comments in Python?
 Comments are lines in Python code that are not executed. They are used to explain the code and make it more readable. Python ignores comments during execution.
 
----
+
 
 ## 🧠 Why Use Comments?
-- To explain code logic
-- To make the code more readable
-- To temporarily disable code
+- To explain code logic.
+- To make the code more readable.
+- To temporarily disable code.
 
 ---
 
@@ -24,9 +24,9 @@ A single-line comment starts with a `#` symbol.
 >```
 ## 🟨 Multi-line Comments in Python
 
-Python does not have a dedicated syntax for multi-line comments. However, there are two commonly used ways to write them:
+Python does not have a dedicated syntax for multi-line comments. However, there are two commonly used ways to write them.
 
----
+
 
 ### 🔹 1. Using Multiple `#` Symbols
 
