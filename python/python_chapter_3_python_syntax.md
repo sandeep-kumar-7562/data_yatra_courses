@@ -1,4 +1,4 @@
-# 🧱 Chapter 3: Python Syntax 
+# 🧱  Python Syntax 
 
 ## 📜 Python Syntax Essentials
 Python syntax is simple and easy to understand. Instead of using braces or semicolons, Python uses indentation to define the structure of the code. This clean and readable style makes it perfect for beginners who are just starting to learn programming
@@ -26,6 +26,8 @@ watch the video.
 
 ![youtube]()
 
-[previous](python/python_chapter_2_install.md)
-
-[Next](python/python_chapter_4_python_comments.md)
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_2_install.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a href="python_chapter_4_python_comments.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
