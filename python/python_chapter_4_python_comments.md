@@ -68,7 +68,7 @@ Triple-quoted strings (single or double quotes) can be used as multi-line commen
 ![youtube]()
 
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="python/python_chapter_3_python_syntax.md">Previous</a>
-  <a href="python/python_chapter_5.0_python_variable.md">Next</a>
-</div>
+[previous](python/python_chapter_3_python_syntax.md)
+
+
+[Next](python/python_chapter_5.0_python_variable.md)
