@@ -87,7 +87,10 @@ Output
 
 ![Youtube]()
 
-[previous](python/python_chapter_5.1_variable_name.md)
 
-[Next]()
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_5.1_variable_name.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a href="python_chapter_6_python_data_types.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
 
