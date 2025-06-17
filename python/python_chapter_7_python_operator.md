@@ -1,4 +1,4 @@
-# ➕ Chapter: Operators in Python
+# ➕ Operators in Python
 
 ## 🧠 What is an Operator?
 In Python, an **operator** is a symbol that performs an operation on one or more operands (values or variables). Python includes various types of operators used for arithmetic, comparison, logic, assignment, and more.
@@ -90,3 +90,12 @@ Used to test if a value is part of a sequence.
 >print(x+ y)   # Output: 15
 ># Arithmetic
 >```
+
+## 🎥 YouTube
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_6_python_data_types.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a href="python_chapter_8_python_string.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
