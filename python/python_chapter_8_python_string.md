@@ -5,6 +5,7 @@ Strings in Python are sequences of characters enclosed in either single quotes `
 
 ## 🧠 Creating Strings
 You can create a string by simply assigning text to a variable using quotes.
+
 > Example
 
 >```python
@@ -13,6 +14,7 @@ You can create a string by simply assigning text to a variable using quotes.
 >```
 ## 🔁 Multiline Strings
 Use triple quotes ''' or """ to create strings that span multiple lines.
+
 > Example
 
 >```python
@@ -68,6 +70,7 @@ Use the + operator to join strings.
 
 ## 🧮 String Formatting
 Python provides several ways to format strings.
+
 >Example
 
 >```python
