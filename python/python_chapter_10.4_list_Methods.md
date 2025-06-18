@@ -100,4 +100,13 @@ Removes the first occurrence of the item.
 >['apple', 'grape', 'orange', 'cherry', 'mango']
 >```
 
+## 🎥 YouTube
 
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_10.3_list_Comprehension.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_11_python_tuple.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
