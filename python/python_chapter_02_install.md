@@ -1,4 +1,4 @@
-# 🛠️ Chapter 2: Installing Python and Setting Up the Environment
+# 🛠️ Installing Python and Setting Up the Environment
 
 ## 🧩 Getting Started
 Before you start writing Python code, you need to install Python on your system and set up a suitable development environment. This chapter will guide you through the process step by step
