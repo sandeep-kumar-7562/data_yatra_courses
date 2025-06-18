@@ -1,4 +1,4 @@
-# 🔁 Looping Through Lists in Python
+git # 🔁 Looping Through Lists in Python
 
 Looping through lists allows you to access and manipulate each item stored in a list. Python provides several ways to loop through lists.
 
@@ -88,3 +88,11 @@ List comprehension can also be used to loop and perform operations in a single l
 >```
 
 ## 🎥 YouTube
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_10.1_python_acces.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_10.3_list_Comprehension.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
