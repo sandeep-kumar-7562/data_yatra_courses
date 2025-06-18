@@ -99,3 +99,12 @@ Use in keyword to check whether an item is in the list.
 >```
 
 ## 🎥 YouTube 
+
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_10.0_python_list.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_10.2_list_loops.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
