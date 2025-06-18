@@ -62,3 +62,12 @@ You can include nested `for` loops as well.
 >[(1, 3), (1, 4), (2, 3), (2, 4)]
 >```
 
+## 🎥 YouTube
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_10.2_list_loops.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_10.4_list_Methods.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
