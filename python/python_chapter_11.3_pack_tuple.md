@@ -71,3 +71,15 @@ The `*` operator can be used to capture remaining values as a list.
 >
 > 5
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.2_update_tuple.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_11.4_loop_tuple.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
