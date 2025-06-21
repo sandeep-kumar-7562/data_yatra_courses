@@ -44,3 +44,15 @@ In Python, you can multiply a tuple by an integer using the `*` operator. This c
 >```
 >('apple', 'banana', 'apple', 'banana', 'apple', 'banana')
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.4_loop_tuple.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_11.6_tuple_method.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
