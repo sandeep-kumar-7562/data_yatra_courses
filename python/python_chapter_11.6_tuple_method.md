@@ -56,3 +56,14 @@ The `index()` method returns the index of the first occurrence of a specified va
 >```
 
 🔸 If the value is not found, it raises a `ValueError`.
+
+##  🎥 YouTube
+
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.5_join_tuple.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_12.0_python_set.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
