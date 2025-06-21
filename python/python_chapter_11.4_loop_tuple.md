@@ -1,4 +1,4 @@
-# 🔁 Loop tuple
+# 🔁 Loop tuple in python
 
 Tuples are ordered collections, and you can access each element using loops. This chapter explains different ways to iterate through a tuple in Python.
 
@@ -69,4 +69,14 @@ A `while` loop can also be used to iterate over a tuple.
 >cherry
 >```
 
+## YouTube
 
+![youtube]()
+
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.3_pack_tuple.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_11.5_join_tuple.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
