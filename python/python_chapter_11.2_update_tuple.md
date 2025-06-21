@@ -102,3 +102,14 @@ The del keyword can `delete` the tuple completely:
 >
 >NameError: name 'my_tuple' is not defined
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.1_access_tuple.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_11.3_pack_tuple.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
