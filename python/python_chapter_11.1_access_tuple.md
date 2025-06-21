@@ -63,3 +63,14 @@ You can access a **range of items** in a tuple using slicing: `tuple[start:end]`
 >
 >(30, 40, 50)
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.0_python_tuple.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_11.2_update_tuple.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
