@@ -62,5 +62,15 @@ Returns a new set containing all unique items from both sets.
 >  {1, 2, 3, 4, 5}
 >```
 
+## 🎥 YouTube
 
+![youtube]()
+
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_12.2_remove_set.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_13.0_python_dictionary.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
 
