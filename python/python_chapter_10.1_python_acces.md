@@ -13,7 +13,13 @@ Use square brackets `[]` with an index to access a specific item.
 >```python
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
->print(fruits[1])  # Output: banana
+>print(fruits[1])  
+>```
+
+**Output**
+
+>```
+> banana
 >```
 
 ### Notes:
@@ -31,8 +37,15 @@ You can also use negative numbers to access items from the end of the list.
 >```python
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
->print(fruits[-1])  # Output: mango
->print(fruits[-2])  # Output: cherry
+>print(fruits[-1])  
+>print(fruits[-2])  
+>```
+
+**Output**
+
+>```
+> mango
+> cherry
 >```
 
 ## ✂️ Accessing a Range (Slicing)
@@ -49,7 +62,13 @@ Use slicing to access a subset (range) of items.
 >```python
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
->print(fruits[1:3])  # Output: ['banana', 'cherry']
+>print(fruits[1:3])  
+>```
+
+**Output**
+
+>```
+> ['banana', 'cherry']
 >```
 
 By leaving out the start value, the range will start at the first item:
@@ -59,7 +78,13 @@ By leaving out the start value, the range will start at the first item:
 >```python
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
->fruits[:2]    # Output: ['apple', 'banana']
+>fruits[:2]   
+>```
+
+**Output**
+
+>```
+> ['apple', 'banana']
 >```
 
 By leaving out the end value, the range will go on to the end of the list:
@@ -69,7 +94,13 @@ By leaving out the end value, the range will go on to the end of the list:
 >```python
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
->print(fruits[2:])  # Output: ['cherry', 'mango']
+>print(fruits[2:])  
+>```
+
+**Output**
+
+>```
+> ['cherry', 'mango']
 >```
 
 ## 💡 Modifying List Items
@@ -82,7 +113,13 @@ You can change the value of a list item using its index.
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
 >fruits[0] = "grape"
->print(fruits)  # Output: ['grape', 'banana', 'cherry', 'mango']
+>print(fruits)  
+>```
+
+**Output**
+
+>```
+> ['grape', 'banana', 'cherry', 'mango']
 >```
 
 ## 🔍 Checking if Item Exists
@@ -95,7 +132,13 @@ Use in keyword to check whether an item is in the list.
 >fruits = ["apple", "banana", "cherry", "mango"]
 >
 >if "banana" in fruits:
->    print("Yes, 'banana' is in the list")   # Output: Yes, 'banana' is in the list
+>    print("Yes, 'banana' is in the list")   
+>```
+
+**Output**
+
+>```
+> Yes, 'banana' is in the list
 >```
 
 ## 🎥 YouTube 
