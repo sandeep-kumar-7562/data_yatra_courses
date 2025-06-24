@@ -70,6 +70,7 @@ A set in Python can hold elements of **different data types**, including integer
 
 >```python
 >my_set = {1, "hello", 3.14, (2, 4)}
+>
 >print(type(my_set))
 >```
 
@@ -77,3 +78,14 @@ A set in Python can hold elements of **different data types**, including integer
 >```
 >   <class 'set'>
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_11.6_tuple_method.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_12.1_acess_set.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>

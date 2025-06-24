@@ -10,9 +10,35 @@ However, there are several ways to **access and work with the items** in a set.
 
 You can loop through a set using a `for` loop to access each item.
 
-### Example:
-```python
-fruits = {"apple", "banana", "cherry"}
+>   Example
 
-for fruit in fruits:
-    print(fruit)
+>```python
+>fruits = {"apple", "banana", "mango"}
+>
+>for x in fruits:
+>    print(x)
+>```
+
+**Output**
+
+>```
+>apple
+>mango
+>banana
+>```
+
+**Check if "mango" is present in the set**
+
+>  example
+
+>```python
+>fruits = {"apple", "banana", "mango"}
+>
+>print("mango" in fruits)
+>```
+
+**Output**
+
+>```
+>true
+>```
