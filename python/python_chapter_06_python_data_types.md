@@ -91,8 +91,16 @@ Python has several built-in data types, which are categorized as follows:
 >```python
 >a = "20"  # Initially a string
 >b = int(a)  # Cast string to integer
->print(b)       # Output: 20
->print(type(b)) # Output: <class 'int'>
+>
+>print(b)       
+>print(type(b)) 
+>```
+
+**Output**
+
+>```
+> 20
+> <class 'int'>
 >```
 ### 🔍 Check Data Type
 You can use the `type()` function to check the data type of a value.
@@ -100,11 +108,21 @@ You can use the `type()` function to check the data type of a value.
 
 >```python
 >x = 10
->print(type(x))  # Output: <class 'int'>
+>print(type(x)) 
+> 
 >name="data"
->print(type(name)) # Output: <class 'str'>
+>print(type(name)) 
+>
 >y = 6.4
->print(type(y))  # Output: <class 'float'>
+>print(type(y))  
+>```
+
+**Output**
+
+>```
+> <class 'int'>
+> <class 'str'>
+> <class 'float'>
 >```
 
 ## 📺 Youtube
