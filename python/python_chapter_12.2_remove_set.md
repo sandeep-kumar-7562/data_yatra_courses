@@ -129,3 +129,15 @@ The `del` keyword deletes the **entire set**.
 >```
 >❌ NameError: 'fruits' is not defined
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_12.1_acess_set.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_12.3_set_method.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
