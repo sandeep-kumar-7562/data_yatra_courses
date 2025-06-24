@@ -46,6 +46,13 @@ You can find the **number of items** in a list using the `len()` function.
 >print(len(fruits))  # Output: 4
 >```
 
+**Output**
+
+>```
+>  4
+>```
+
+
 ## 🧪 List Item Data Types
 
 A Python list can contain elements of **any data type** — even a mix of different types in the same list.
