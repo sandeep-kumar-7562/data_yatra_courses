@@ -16,8 +16,15 @@ The `if` statement runs a block of code **only if** the condition is true.
 
 >```python
 >age = 18
+>
 >if age >= 18:
->   print("You are eligible to vote.") # Output:You are eligible to vote.
+>   print("You are eligible to vote.") 
+>```
+
+**Output**
+
+>```
+> You are eligible to vote
 >```
 ### 🔁 if...else Statement 
 The `if...else` statement runs one block if the condition is true, another if it’s false.
@@ -26,10 +33,18 @@ The `if...else` statement runs one block if the condition is true, another if it
 
 >```python
 >age = 16
+>
 >if age >= 18:
 >    print("You are eligible to vote.")
+>
 >else:
->    print("You are not eligible to vote.")    # Output: You are not eligible to vote
+>    print("You are not eligible to vote.")    
+>```
+
+**Output**
+
+>```
+> You are not eligible to vote
 >```
 ### 🔄 if...elif...else Statement
 Use `elif` (else if) to check multiple conditions in order.
@@ -46,7 +61,13 @@ Use `elif` (else if) to check multiple conditions in order.
 >elif marks >= 60:
 >    print("Grade: C")
 >else:
->    print("Grade: D")  # Output: Grade: B
+>    print("Grade: D")  
+>```
+
+**Output**
+
+>```
+> Grade: B
 >```
 ### 🔁 Nested if Statement
 You can put one `if` inside another.
@@ -55,10 +76,16 @@ You can put one `if` inside another.
 
 >```python
 >x = 20
+>
 >if x > 10:
 >    if x < 30:
 >        print("x is between 10 and 30")
-> # Output: x is between 10 and 30
+>```
+
+**Output**
+
+>```
+> x is between 10 and 30
 >```
 
 ## 🎥 YouTube
