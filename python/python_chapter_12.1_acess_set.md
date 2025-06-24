@@ -42,3 +42,14 @@ You can loop through a set using a `for` loop to access each item.
 >```
 >true
 >```
+
+## 🎥 YouTube
+
+![youtube]()
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
+  <a
+  href="python_chapter_12.0_python_set.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
+  <a 
+  href="python_chapter_12.2_remove_set.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
+</div>
