@@ -23,8 +23,12 @@ The type is decided automatically when the value is assigned, and it can change 
 >x = "Hello"    # now x is a string
 >print(x)
 >```
-Output
->Hello
+
+**Output**
+
+>```
+>   Hello
+>```
 
 ### 🧮 Multiple Assignments
 ___
@@ -41,11 +45,13 @@ Python allows you to assign values to multiple variables in one line.
 >print(y)
 >print(z)
 >```
-Output
+
+**Output**
+
 >```
->5
+> 5
 > 3.5
->python
+> python
 >```
 ### 📦 One Value to Multiple Variables
 
@@ -59,11 +65,13 @@ Assign the same value to multiple variables in a single line.
 >print(y)
 >print(z)
 >```
-Output
+
+**Output**
+
 >```
->50
->50
->50
+> 50
+> 50
+> 50
 ### 📤 Unpack a Collection
 
 Python allows you to extract values from a list, tuple, or other collection and assign them to variables in a single line.
@@ -77,11 +85,13 @@ Python allows you to extract values from a list, tuple, or other collection and 
 >print(y)
 >print(z)
 >```
-Output
+
+**Output**
+
 >```
->apple
->banana
->cherry
+> apple
+> banana
+> cherry
 
 ## 🎥 Youtube
 
