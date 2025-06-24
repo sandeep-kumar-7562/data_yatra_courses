@@ -72,6 +72,7 @@ Assign the same value to multiple variables in a single line.
 > 50
 > 50
 > 50
+>```
 ### 📤 Unpack a Collection
 
 Python allows you to extract values from a list, tuple, or other collection and assign them to variables in a single line.
@@ -80,6 +81,7 @@ Python allows you to extract values from a list, tuple, or other collection and 
 
 >```python
 >fruits = ["apple", "banana", "cherry"]
+>
 >x, y, z = fruits
 >print(x)
 >print(y)
