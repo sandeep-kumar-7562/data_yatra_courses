@@ -85,8 +85,3 @@ Python provides several ways to format strings.
 ## 🎥 Youtube
 ![youtube]()
 
-<div style="display: flex; justify-content: space-between; margin-top: 30px;">
-  <a
-  href="python_chapter_7_python_operator.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
-  <a href="python_chapter_9_python_condition.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
-</div>
