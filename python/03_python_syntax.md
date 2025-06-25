@@ -26,8 +26,3 @@ watch the video.
 
 ![youtube]()
 
-<div style="display: flex; justify-content: space-between; margin-top: 30px;">
-  <a
-  href="python_chapter_2_install.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
-  <a href="python_chapter_4_python_comments.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
-</div>
