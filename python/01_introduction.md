@@ -37,7 +37,8 @@ Python is often recommended as the **first programming language** for beginners 
  Math Operations
 >```python
 >print(5+3)
-># Output:8   
+># Output:8 
+>```  
  Variable Usage
 >```python
 >name="python"
