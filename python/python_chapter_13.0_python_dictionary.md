@@ -1,7 +1,12 @@
 # 📘  Python Dictionaries
 
-## 🧩 Overview
-A **dictionary** in Python is an unordered, mutable collection of items where each item is a pair of a **key** and its **value**. Dictionaries are also known as **hash maps** in other programming languages.
+A **Python dictionary** is a data structure that stores the value in **key: value** pairs.  
+- **Values** in a dictionary can be of any data type and can be **duplicated**.  
+- **Keys** can't be repeated and must be **immutable**.
+
+Dictionaries are widely used for **fast data lookup**, **data mapping**, and **structured data representation**.
+
+
 
 ## 🔑 Key Characteristics
 - Each key must be **unique**.
@@ -22,4 +27,6 @@ student = {
 }
 
 # Example 2: Using the dict() constructor
-info = dict(city="Delhi", population=18000000)
+info = dict(city="Delhi", population=18000000
+
+
