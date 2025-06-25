@@ -94,8 +94,4 @@ Used to test if a value is part of a sequence.
 ## 🎥 YouTube
 ![youtube]()
 
-<div style="display: flex; justify-content: space-between; margin-top: 30px;">
-  <a
-  href="python_chapter_6_python_data_types.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
-  <a href="python_chapter_8_python_string.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
-</div>
+ 
