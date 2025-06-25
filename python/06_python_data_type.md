@@ -128,8 +128,5 @@ You can use the `type()` function to check the data type of a value.
 ## 📺 Youtube
 ![youtube]()
 
-<div style="display: flex; justify-content: space-between; margin-top: 30px;">
-  <a
-  href="python_chapter_5.2_Assign_variable.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
-  <a href="python_chapter_7_python_operator.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
-</div>
+
+
