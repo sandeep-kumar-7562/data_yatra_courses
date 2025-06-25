@@ -49,8 +49,6 @@ Python is often recommended as the **first programming language** for beginners 
 ####  watch the video
 ![youtube]()
 
-<div style="display: flex; justify-content: flex-end; margin-top: 30px;">
-  <a href="python_chapter_2_install.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
-</div>
+
 
 
