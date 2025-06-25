@@ -50,8 +50,3 @@ run the file:
 
 
 
-<div style="display: flex; justify-content: space-between; margin-top: 30px;">
-  <a
-  href="python_chapter_1_introduction.md" style="text-decoration: none; font-weight: bold;">⬅️ Previous</a>
-  <a href="python_chapter_3_python_syntax.md" style="text-decoration: none; font-weight: bold;">Next ➡️</a>
-</div>
